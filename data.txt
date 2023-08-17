@@ -1,0 +1,16 @@
+user count = 500  think time = 0.300000sec  test duration = 60sec  avg throughput = 1650.000000  avg res time =0.001740
+user count = 600  think time = 0.300000sec  test duration = 60sec  avg throughput = 1975.000000  avg res time =0.001559
+user count = 700  think time = 0.300000sec  test duration = 60sec  avg throughput = 2313.000000  avg res time =0.001474
+user count = 800  think time = 0.300000sec  test duration = 60sec  avg throughput = 2628.000000  avg res time =0.001840
+user count = 900  think time = 0.300000sec  test duration = 60sec  avg throughput = 2996.000000  avg res time =0.001206
+user count = 1000  think time = 0.300000sec  test duration = 60sec  avg throughput = 3319.000000  avg res time =0.001727
+user count = 2000  think time = 0.300000sec  test duration = 60sec  avg throughput = 6657.000000  avg res time =0.001265
+user count = 3000  think time = 0.300000sec  test duration = 60sec  avg throughput = 9862.000000  avg res time =0.003644
+user count = 4000  think time = 0.300000sec  test duration = 60sec  avg throughput = 13122.000000  avg res time =0.005204
+user count = 5000  think time = 0.300000sec  test duration = 60sec  avg throughput = 16071.000000  avg res time =0.011092
+user count = 6000  think time = 0.300000sec  test duration = 60sec  avg throughput = 17333.000000  avg res time =0.048068
+user count = 7000  think time = 0.300000sec  test duration = 60sec  avg throughput = 20085.000000  avg res time =0.049211
+user count = 8000  think time = 0.300000sec  test duration = 60sec  avg throughput = 19963.000000  avg res time =0.102114
+user count = 9000  think time = 0.300000sec  test duration = 60sec  avg throughput = 20095.000000  avg res time =0.150195
+user count = 10000  think time = 0.300000sec  test duration = 60sec  avg throughput = 19991.000000  avg res time =0.201857
+user count = 11000  think time = 0.300000sec  test duration = 60sec  avg throughput = 19718.000000  avg res time =0.265167
